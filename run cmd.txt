@@ -1,0 +1,1 @@
+gunicorn app:app & pithon3 main.py
